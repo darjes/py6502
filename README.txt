@@ -1,3 +1,11 @@
+Update notes 22.11.2024:
+- Updated to work with Python 3.11 in spyder.
+
+- Added function to dump code as decimal for implementation in BASIC
+
+
+----- Original README.txt -----
+
 A python based 6502 assembler, disassembler and simulator
 David Johnston
 
